@@ -8,7 +8,7 @@
     "editor.js",
     "editorjs"
   ],
-  "description": "List Tool for Editor.js",
+  "description": "A clone from List Tool for Editor.js",
   "license": "MIT",
   "repository": {
     "type": "git",
